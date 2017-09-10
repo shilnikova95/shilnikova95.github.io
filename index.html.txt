@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<meta charset ="utf-8">
+<title>Моя личная страница </title>
+</head>
+<body>
+<left><h1>Шильникова Камила</h1></left>
+<left><h2>Немного о себе: Родилась в сентябре прошлого века.Сейчас обучаюсь в НИУ ВШэ на факультете философии.Живу в 1 общежитии.</h2></left>
+<left><img alt ="Это я" width ="15%" src="me.jpg"></left>
+<br/>
+<h2>Как можно со мной связаться?</h2>
+Страничка <a href=https://vk/com/id441043724>vkontakte</a>
+<br/>
+<a href =https://github.com/shilnikova95>GitHub</a>
+<br/>
+Телефон: <b>+79584680071</b>
+<br/>
+E-mail:<i>kyushilnikova@edu.hse.ru</i>
+</body>
+</html>
